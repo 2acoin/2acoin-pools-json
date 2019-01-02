@@ -1,4 +1,4 @@
-# 2acoin-pool-list
+# 2acoin-pool-list ![](./2acoin_logo.png)
 
 The goal of this repository is to have a central list of pools for 2ACoin (https://www.2acoin.org) mining.  
 
