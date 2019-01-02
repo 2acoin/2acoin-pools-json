@@ -17,7 +17,7 @@
         {
             "name" : "CODPool",
             "url" : "https://arms.codpool.com/",
-            "api" : "https://pool.codpool.com:8119/",
+            "api" : "https://pool0.codpool.com:8119/",
             "type" : "node.js",
             "miningAddress" : "arms.pool.codpool.com"
         },
