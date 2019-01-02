@@ -1,0 +1,60 @@
+{
+    "pools" : [
+        {
+            "name" : "2ACoin Official Pool",
+            "url" : "https://pool.2acoin.org/",
+            "api" : "https://pool.2acoin.org:19761/",
+            "type" : "node.js",
+            "miningAddress" : "us-central.2acoin.org"
+        },
+        {
+            "name" : "Blockfoundry",
+            "url" : "https://arms.blockfoundry.org/",
+            "api" : "https://arms.blockfoundry.org/api/",
+            "type" : "node.js",
+            "miningAddress" : "arms.blockfoundry.org"
+        },
+        {
+            "name" : "CODPool",
+            "url" : "https://arms.codpool.com/",
+            "api" : "https://pool.codpool.com:8119/",
+            "type" : "node.js",
+            "miningAddress" : "arms.pool.codpool.com"
+        },
+        {
+            "name" : "Community Pool",
+            "url" : "https://communitypool.org/2acoin/",
+            "api" : "https://communitypool.org:8199/",
+            "type" : "node.js",
+            "miningAddress" : "arms.communitypool.org"
+        },
+        {
+            "name" : "CNPools Space",
+            "url" : "http://arms.cnpools.space/",
+            "api" : "http://arms.cnpools.space:9119/",
+            "type" : "node.js",
+            "miningAddress" : "arms.cnpools.space"
+        },
+        {
+            "name" : "CryptoMine",
+            "url" : "https://arms.cryptomine.cx/",
+            "api" : "https://arms.crypttomine.cx:8003/",
+            "type" : "node.js",
+            "miningAddress" : "arms.cryptomine.cx"
+        },
+        {
+            "name" : "P2PoolMining US",
+            "url" : "https://arms01.p2poolmining.us/",
+            "api" : "https://arms01.p2poolmining.us:19761/",
+            "type" : "node.js",
+            "miningAddress" : "arms01.p2poolmining.us"
+        },
+        {
+            "name" : "SmartCoinPool",
+            "url" : "https://2acoin.smartcoinpool.com/",
+            "api" : "https://2acoin.smartcoinpool.com:7109/",
+            "type" : "node.js",
+            "miningAddress" : "2acoin.smartcoinpool.com"
+        }
+    ]
+}
