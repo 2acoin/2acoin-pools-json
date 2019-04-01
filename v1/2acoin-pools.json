@@ -50,6 +50,13 @@
             "miningAddress" : "arms01.p2poolmining.us"
         },
         {
+            "name" : "ProfitBotPro",
+            "url" : "https://arms.profitbotpro.com/",
+            "api" : "https://arms.profitbotpro.com:8119/",
+            "type" : "node.js",
+            "miningAddress" : "arms.profitbotpro.com"
+        },
+        {
             "name" : "SmartCoinPool",
             "url" : "https://2acoin.smartcoinpool.com/",
             "api" : "https://2acoin.smartcoinpool.com:7109/",
