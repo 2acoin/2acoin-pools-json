@@ -16,24 +16,24 @@
         },
         {
             "name" : "Community Pool",
-            "url" : "https://communitypool.org/",
+            "url" : "https://communitypool.org/2acoin",
             "api" : "https://communitypool.org:8199/",
             "type" : "node.js",
             "miningAddress" : "communitypool.org/arms"
         },
         {
-            "name" : "Cryptonote Club",
-            "url" : "https://arms.cryptonote.club/",
-            "api" : "https://arms.cryptonote.club:8199/",
+            "name" : "Cryptonote Club (tkts)",
+            "url" : "https://tkts.cryptonote.club/",
+            "api" : "https://tkts.cryptonote.club:8199/",
             "type" : "node.js",
-            "miningAddress" : "arms.cryptonote.club"
+            "miningAddress" : "tkts.cryptonote.club"
         },
         {
-            "name" : "CODPool",
-            "url" : "https://codpool.com/",
-            "api" : "https://codpool.codms.com:8111/",
+            "name" : "Cryptonote Club (etrx)",
+            "url" : "https://etrx.cryptonote.club/",
+            "api" : "https://etrx.cryptonote.club:8199/",
             "type" : "node.js",
-            "miningAddress" : "arms.codpool.com"
+            "miningAddress" : "etrx.cryptonote.club"
         },
         {
             "name" : "Fastpool",
@@ -44,16 +44,16 @@
         },
         {
             "name" : "Miner Country",
-            "url" : "https://minercountry.com/",
+            "url" : "https://arms.minercountry.com/",
             "api" : "https://arms.minercountry.com/mapi/",
             "type" : "node.js",
             "miningAddress" : "arms.minercountry.com"
         },
         {
             "name" : " Semi Pool",
-            "url" : "https://semipool.com/",
+            "url" : "https://webarms.semipool.com/",
             "api" : "https://webarms.semipool.com/api/",
-            "type" : "xxx",
+            "type" : "node.js",
             "miningAddress" : "webarms.semipool.com"
         }
     ]
